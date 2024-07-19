@@ -1,0 +1,1 @@
+export { default } from "file:///Users/tera/Desktop/%E1%84%86%E1%85%AE%E1%84%8C%E1%85%A6%20%E1%84%91%E1%85%A9%E1%86%AF%E1%84%83%E1%85%A5%202/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
